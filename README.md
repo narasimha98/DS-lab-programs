@@ -1,1 +1,1 @@
-# DS-lab-programs
+# Data-structures-programs
